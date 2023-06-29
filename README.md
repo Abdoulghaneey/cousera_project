@@ -36,4 +36,9 @@ In this part, you will perform various tasks using the GitHub user interface.
 - This will help identify your contribution to the project.
 
 ### Peer Review Guidelines
-After completing the above tasks, you will need to submit your project for peer review. Your peers, who are also completing the assignment, will review your project based on the specified criteria. Please ensure that you provide the following items for peer
+After completing the above tasks, you will need to submit your project for peer review. Your peers, who are also completing the assignment, will review your project based on the specified criteria. Please ensure that you provide the following items for peer review. Your peers, who are also completing the assignment, will review your project based on the specified criteria. Please ensure that you provide the following items for peer review:
+
+	•	A URL for each task that links to your project on GitHub.
+	•	Your peers will use these URLs to access and review your project.
+
+Thank you for participating in the final project. Good luck with your submissions and peer reviews!
