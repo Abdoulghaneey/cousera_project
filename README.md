@@ -1,44 +1,73 @@
-# cousera_project
-Title: Final Project - Peer Review and Submission
+# Calculator
 
-Caption: Guidelines for completing the final project and peer review
+This calculator is a simple tool for performing basic mathematical operations. It accepts input parameters and provides output based on the selected operation.
 
-## Overview
-This README provides instructions for completing the final project, which involves completing hands-on labs and submitting the project for peer review. The project is worth a total of 20 points and consists of 10 tasks spread across two hands-on labs.
+## Updates
 
-### Part 1: GitHub UI (14 points)
-In this part, you will perform various tasks using the GitHub user interface.
+### Version 1.1
 
-#### Task 1: Create a GitHub repository (2 points)
-- Create a new GitHub repository to host your project.
-- Name the repository appropriately, considering the project requirements.
+- Added support for decimal numbers.
+- Improved user interface for better usability.
+- Fixed a bug that caused incorrect calculation results in certain scenarios.
 
-#### Task 2: Add a license file (2 points)
-- Include a license file in your repository to specify the terms and conditions for using your project.
-- Choose an appropriate license based on your project requirements.
+### Version 1.0
 
-#### Task 3: Update the README file (2 points)
-- Edit the README file in your repository to provide project details, including an overview, features, installation steps, usage instructions, contribution guidelines, license information, and contact details.
-- Follow the specified format for each section.
+Initial release of the calculator.
 
-#### Task 4: Add a code of conduct (2 points)
-- Include a code of conduct file in your repository to define expected behavior and guidelines for contributors and participants.
+## Input Parameters
 
-#### Task 5: Add contribution guidelines (2 points)
-- Provide clear guidelines for contributors, including steps to follow, formatting rules, and expectations for submitting contributions.
+The calculator accepts the following input parameters:
 
-#### Task 6: Host the script file (2 points)
-- Host the script file required for the project in your repository.
-- Ensure that the script file is easily accessible and can be downloaded or executed as needed.
+- **Number 1**: The first number for the calculation.
+- **Number 2**: The second number for the calculation.
+- **Operation**: The mathematical operation to be performed (e.g., addition, subtraction, multiplication, division).
 
-#### Task 7: Add your GitHub username to the authors section (2 points)
-- Include your GitHub username in the authors or contributors section of the README file.
-- This will help identify your contribution to the project.
+## Output
 
-### Peer Review Guidelines
-After completing the above tasks, you will need to submit your project for peer review. Your peers, who are also completing the assignment, will review your project based on the specified criteria. Please ensure that you provide the following items for peer review. Your peers, who are also completing the assignment, will review your project based on the specified criteria. Please ensure that you provide the following items for peer review:
+The calculator provides the following output:
 
-	•	A URL for each task that links to your project on GitHub.
-	•	Your peers will use these URLs to access and review your project.
+- **Result**: The result of the calculation based on the input parameters.
 
-Thank you for participating in the final project. Good luck with your submissions and peer reviews!
+## Usage
+
+To use the calculator, follow these steps:
+
+1. Enter the first number in the "Number 1" input field.
+2. Enter the second number in the "Number 2" input field.
+3. Select the desired mathematical operation from the "Operation" dropdown menu.
+4. Click the "Calculate" button to perform the calculation.
+5. The result will be displayed in the "Result" field.
+
+## Examples
+
+Here are a few examples of how to use the calculator:
+
+1. Addition:
+   - Number 1: 5
+   - Number 2: 3
+   - Operation: Addition
+   - Result: 8
+
+2. Subtraction:
+   - Number 1: 10
+   - Number 2: 7
+   - Operation: Subtraction
+   - Result: 3
+
+3. Multiplication:
+   - Number 1: 4
+   - Number 2: 6
+   - Operation: Multiplication
+   - Result: 24
+
+4. Division:
+   - Number 1: 15
+   - Number 2: 3
+   - Operation: Division
+   - Result: 5
+
+Feel free to explore the calculator and perform various calculations.
+
+## License
+
+This calculator is released under the [MIT License](LICENSE).
